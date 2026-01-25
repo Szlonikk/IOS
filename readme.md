@@ -26,3 +26,8 @@
 
 ✅ 3.0:
     https://github.com/Szlonikk/IOS/commit/72eee042c928da2e1514c59e07bfd619e65d2b62
+
+
+#Zad7:
+
+✅ 3.0:    https://github.com/Szlonikk/IOS/commit/bcf6e7341c3488cd6729adcb2006ce359b03654b
